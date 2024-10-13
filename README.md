@@ -48,6 +48,9 @@ The model is trained on this data to predict the classification, which indicates
 5. Open your browser and navigate to `http://127.0.0.1:5000/`.
 6. Fill in the form with the required medical data and submit to see the prediction.
 
+## Output
+![Screenshot (310)](https://github.com/user-attachments/assets/2e3f349b-49a1-4bbe-ac6e-1ccf4159a685)
+
 ## Project Structure
 ```
 CancerPredictorApplication/
